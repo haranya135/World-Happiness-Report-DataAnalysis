@@ -7,22 +7,22 @@ The goal of this project is to practice and demonstrate key data science and mac
 The World Happiness Report measures happiness as a composite score derived from seven key criteria: economic performance (GDP per capita), healthy life expectancy, social support, trust in government and business, freedom to make life choices, generosity, and a dystopia residual benchmark. Additionally, data regarding job satisfaction across countries is analyzed.
 
 # Project Tasks Summary
-## Data Import and Cleaning: 
+## 1.Data Import and Cleaning: 
 Loading the dataset, handling missing values, checking data types, and summarizing key statistics.
 
-## Indexing and Grouping: 
+## 2.Indexing and Grouping: 
 Segmenting data by region, calculating mean happiness scores, ranking regions, and analyzing regional happiness score ranges.
 
-## Visualizations: 
+## 3.Visualizations: 
 Creating bar charts and stacked bar charts of happiness scores for top countries and region-specific subsets; histograms of job satisfaction percentages.
 
-## Scatter Plots & Correlation: 
+## 4.Scatter Plots & Correlation: 
 Generating pairwise scatter plots to explore relationships between happiness and contributing factors, and computing correlation statistics.
 
-## Probability Computations: 
+## 5.Probability Computations: 
 Estimating probabilities related to region-specific happiness scores.
 
-## Matrix Construction: 
+## 6.Matrix Construction: 
 Building an indicator matrix to map countries to their respective regions with binary values.
 
 For detailed exploration, code, and outputs, please refer to the notebook(s) included in this repository. Questions or suggestions are welcome—feel free to open an issue or contact me directly.
